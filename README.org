@@ -2,6 +2,7 @@
 
   Link para as notas de aula: https://github.com/luiz-classrooms/mc-lecture-notes
 
-  Dentre as questões ?? a ?? das notas de aula, escolha ?? e as resolva.
-
-  Implemente o algoritmo ??.
+  Utilizando o pacote de otimização CPLEX, implemente três modelos matemáticos (sejam de programação linear ou linear inteira) com dados concretos.
+  Os modelos podem ser aqueles apresentados nas notas de aula.
+  Os modelos não podem ser aqueles trazidos como exemplos na instalação do CPLEX.
+  Para cada modelo, implemente uma visualização gráfica de sua(s) solução(ões) ótima(s). Recomendamos python e pandas para isso.

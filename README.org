@@ -1,0 +1,7 @@
+* Entrega
+
+  Link para as notas de aula: https://github.com/luiz-classrooms/mc-lecture-notes
+
+  Dentre as questões ?? a ?? das notas de aula, escolha ?? e as resolva.
+
+  Implemente o algoritmo ??.
